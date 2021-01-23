@@ -1,0 +1,132 @@
+body{
+    margin: 0%;
+}
+nav{
+    background: white;
+    height: 80px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 20px;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight1{
+    color: blue;
+}
+.name-highlight2{
+    color: orange;
+}
+.half-width{
+    width: 40%; 
+    height: 900px;
+    float: left;   
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.about-area{
+    height: 900px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, lightsalmon,tomato);
+    padding: 10px 15px;
+    color: white;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+h2{
+    color: rgb(255, 0, 119);
+    font-size: 50px;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, lightsalmon,tomato);
+    padding: 10px 15px;
+    color: rgb(124, 29, 179);
+    font-weight: 600;
+    border-radius: 8px;
+}
+.working-project{
+    height: 400px;
+    padding: 5%;
+
+    
+}
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding-left: 3%;
+}
+.one-third-width img{
+    width: 100%;
+}
+h3{
+    text-align: center;  
+    font-size: 45px;  
+ 
+}
+.name{
+    color: red;
+    text-align: center;
+}
+.one-third-width{
+    box-shadow: 10px 10px 35px gray;
+    border-radius: 15px;
+    height: 105%;
+}
+h4{
+    font-size: 25px;
+}
+.lets-chat{
+
+    height: 400px;
+    padding: 5%;
+    margin-top: 10%;
+    
+}
+.footer-img img{
+width: 55%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 55%;
+display: block;
+}
+.stay{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.gmail{
+    font-size: 45px;
+    text-align: center;
+}
+.one-four-width{
+    width: 20%;
+    float: left;
+    margin: 2%;
+    padding-left: 15%;
+  
+}
+.one-four-width{
+    width: 10%;
+   
+}
+
+
